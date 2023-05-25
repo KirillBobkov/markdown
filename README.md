@@ -107,7 +107,10 @@ export const generateMockData = () => {
 
 Now you should see chart just like image below:
 
-![DXcharts Lite basic example](./screen2.png)
+<p align="center">
+  <img src="screen2.png" width="1000px" alt="4 charts example" />
+</p>
+
 
 ### HTML-markup
 
