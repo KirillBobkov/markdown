@@ -39,15 +39,15 @@
 
 Get started with DxChart Lite, install the library and configure it as you want.
 
-- [Quick start](#quick-start)
-  - [Installation](#installation)
-  - [Constructor](#constructor)
-  - [Set Data](#set-data)
-  - [HTML markup](#html-markup)
-- [Configuration](#configuration)
-- [API](#api)
-- [Demo](#demo)
-- [Memory leak test](#memory-leak-test)
+🚀[Quick start](#quick-start)
+  📦[Installation](#installation)
+  🛠️[Constructor](#constructor)
+  📈[Set Data](#set-data)
+  📄[HTML markup](#html-markup)
+⚙️[Configuration](#configuration)
+🔌[API](#api)
+👓[Demo](#demo)
+🔬[Memory leak test](#memory-leak-test)
 
 ## Quick-start
 
