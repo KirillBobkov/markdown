@@ -49,7 +49,7 @@ Get started with DxChart Lite, install the library and configure it as you want.
 - 🧮[Demo](#demo)
 - 🔬[Memory leak test](#memory-leak-test)
 
-## Quick-start 🚀
+## Quick-start
 
 ### Installation
 
