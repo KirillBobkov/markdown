@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/static/v1?label=PRs&message=Welcome&color=blue" alt="PRs: Welcome" />
   </a>&nbsp;
   <a href="https://devexperts.com/dxcharts-demo/?lang=en">
-    <img src="https://img.shields.io/static/v1?label=Latest%20version&message=5.0.6&color=blue" alt="Version" />
+    <img src="https://img.shields.io/static/v1?label=Latest%20version&message=5.3.1&color=blue" alt="Version" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@ Get started with DxChart Lite, install the library and configure it as you want.
 - 🚀[Quick start](#quick-start)
   - 📦[Installation](#installation)
   - 🛠️[Constructor](#constructor)
-  - 📈[Set Data](#set-data)
+  - 📈[Set data](#set-data)
   - 📄[HTML markup](#html-markup)
 - ⚙️[Configuration](#configuration)
 - 🔌[API](#api)
@@ -86,7 +86,7 @@ export const createChartInstance = () => {
 - `element` - HTML container element
 - `config` (optional) - instance of [ChartConfig](/chart/chart-config/overview)
 
-> Also, please set `width: 100%` and `height:100%` for parent container
+> Also, please set `width: 100%` and `height: 100%` for parent container
 > by default chart is auto-resizing to parent
 > you can change it by setting `fixedSize` in config
 
@@ -147,7 +147,7 @@ Here is full quick-start code example:
 
 You can configure chart with `ChartConfig` object. It is optional.
 
-`ChartConfig` is used to set initial properties for chart instance
+`ChartConfig` is used to set initial properties for chart instance.
 Below you can see full table of it, and other options, that `ChartConfig` consists of.
 
 - [`FullChartConfig`](docs/generated/FullChartConfig.md)
