@@ -1,8 +1,10 @@
+<p align="center">
+  <img src="screen4.png" alt="devexperts-logo" width="294px" height="100px"/>
+</p>
+
 <h1 align="center">DXCharts Lite - one of the most powerful financial charting tools</h1>
 
 <p align="center">
-  <img src="screen4.png" alt="devexperts-logo" width="294px" height="100px"/>
-  <br>
   <i>
     DXcharts Lite is a modern solution made for visualization financial data with full variety of charts.<br>
     It's been created and tempered as a part of big tradings apps with millions of users.<br>
