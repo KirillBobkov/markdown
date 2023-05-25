@@ -46,6 +46,7 @@ Get started with DxChart Lite, install the library and configure it as you want.
   - 📄[HTML markup](#html-markup)
 - ⚙️[Configuration](#configuration)
 - 🔌[API](#api)
+- 📒[Examples](#examples)
 - 🧮[Demo](#demo)
 - 🔬[Memory leak test](#memory-leak-test)
 
@@ -171,6 +172,11 @@ Here are the links of the main components:
 - [`HighlightsComponent`](docs/generated/HighlightsComponent.md) - allows to draw highlights of some canvas objects such as labels
 - [`PaneManager`](docs/generated/PaneManager.md) - create and manage panes
 - [`PaneComponent`](docs/generated/PaneComponent.md) - create and manage panes data series
+
+## Examples
+
+We have created a lot of examples with different chart configuration.
+You can find it [here](examples).
 
 ## Demo
 
