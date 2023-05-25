@@ -1,10 +1,7 @@
 <h1 align="center">DXCharts Lite - one of the most powerful financial charting tools</h1>
 
-<br>
-
 <p align="center">
-  <br>
-  <img src="screen4.png" alt="devexperts-logo" width="147px" height="50px"/>
+  <img src="screen4.png" alt="devexperts-logo" width="294px" height="100px"/>
   <br>
   <i>
     DXcharts Lite is a modern solution made for visualization financial data with full variety of charts.<br>
@@ -14,8 +11,6 @@
   </i>
   <br>
 </p>
-
-<br>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MPL-2.0">
