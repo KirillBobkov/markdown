@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screen4.png" alt="devexperts-logo" width="294px" height="100px"/>
+  <img src="screen4.png" alt="devexperts-logo" width="294px" height="100px" style="box-shadow: 0px 0px 20px black;"/>
 </p>
 
 <h1 align="center">DXCharts Lite - one of the most powerful financial charting tools</h1>
@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-  <img src="screen3.png" width="1000px" alt="4 charts example" />
+  <img src="screen3.png" width="1000px" alt="4 charts example" style="box-shadow: 0px 0px 20px black;"/>
 </p>
 
 <hr>
@@ -110,7 +110,7 @@ export const generateMockData = () => {
 Now you should see chart just like image below:
 
 <p align="center">
-  <img src="screen2.png" width="1000px" alt="4 charts example" />
+  <img src="screen2.png" width="1000px" alt="4 charts example" style="box-shadow: 0px 0px 20px black;"/>
 </p>
 
 
